@@ -1,0 +1,13 @@
+name: geospatial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - jupyterlab  # or notebook if you prefer Jupyter Notebook
+  - scipy
+  - matplotlib
+  - jupyter
+  - nb_conda
